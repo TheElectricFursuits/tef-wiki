@@ -25,6 +25,7 @@ I bought some ESP32's so at some point I will need to find projects using their 
 
 - Warp Core
 - Life Trips
+- [Lightning Fixture](https://github.com/sonyhome/lightning_ornament)
 
 ## Skillset
 
