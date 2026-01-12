@@ -12,13 +12,12 @@ This Wiki is community-driven. [If you want to contribute](Contributing), don't 
 
 ## Topics
 
-- [Show  and Tell](ShowAndTell/README.md)
-- [Contributor Home Pages](Contributors/README.md)
-- [Projects Discussed in chat](projects/README.md)
-- [Learning](Learning/README.md)
-- [Useful External Reference Material](Reference/README.md)
-- [Cool Products](Products/README.md)
+- [Contributor Home Pages](Contributors)
+- [Event information](Events)
+- [Community Member Projects](Projects)
+- [Useful Resources](Reference)
 
 ## Notice:
+
 These pages are currently still quite TODO-Esque, as this wiki has *just* launched. But, expect more soon.
 You can even subscribe to the local RSS feed :>
